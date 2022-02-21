@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+![image](https://res.cloudinary.com/dloadb2bx/image/upload/v1645476063/trip_ztgthh.png)
